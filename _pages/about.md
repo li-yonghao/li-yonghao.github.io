@@ -19,7 +19,7 @@ The long-term research goal of our team is to develop robust and trustworthy mac
 - **How to improve the robustness, interpretability, and generalization of machine learning models in real-world applications?**
   - Related Topics: Robust Learning, Explainable AI, Domain Adaptation, Trustworthy AI, etc.
 
-
+<p><b>📢: <font color="red">招收对人工智能、大模型感兴趣，有较好编程基础的学生，可通过邮箱guolz@nju.edu.cn联系我，请附上带普通生活照的个人简历、成绩单。
 
 
 
