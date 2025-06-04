@@ -3,22 +3,23 @@ I am currently an Assistant Professor at the [School of Computing and Artificial
 
 ## 📖 Research
 
-The long-term research goal of our team is to develop robust and trustworthy machine learning methods for complex, high-dimensional, and distributed data environments. Most recently, our research mainly focuses on **machine learning and its applications in data mining**, especially in the following directions:
+The long-term research goal of our team is to develop robust and trustworthy machine learning methods for complex, high-dimensional, and distributed data environments. Most recently, the research mainly focuses on **machine learning and its applications in data mining**, following are some related research problems:
 
-**How to select informative and non-redundant features from high-dimensional data?**  
-*Related Topics: Feature Selection, Multi-label Feature Selection, Embedded Methods, Information-Theoretic Approaches, etc.*
+- **How to select informative and non-redundant features from high-dimensional data?**
+  - Related Topics: Feature Selection, Multi-label Feature Selection, Embedded Methods, Information-Theoretic Approaches, etc.
 
-**How to uncover and leverage causal relationships in observational data?**  
-*Related Topics: Causal Inference, Causal Discovery, Causal Representation Learning, Counterfactual Reasoning, etc.*
+- **How to uncover and leverage causal relationships in observational data?**
+  - Related Topics: Causal Inference, Causal Discovery, Causal Representation Learning, Counterfactual Reasoning, etc.
 
-**How to collaboratively train models across decentralized data sources while preserving data privacy?**  
-*Related Topics: Federated Learning, Privacy-Preserving Machine Learning, Communication-Efficient Learning, Personalized FL, etc.*
+- **How to collaboratively train models across decentralized data sources while preserving data privacy?**
+  - Related Topics: Federated Learning, Privacy-Preserving Machine Learning, Communication-Efficient Learning, Personalized FL, etc.
 
-**How to enable models to continually learn from non-stationary data without catastrophic forgetting?**  
-*Related Topics: Continual Learning, Lifelong Learning, Incremental Learning, Replay-based Methods, Regularization-based Approaches, etc.*
+- **How to enable models to continually learn from non-stationary data without catastrophic forgetting?**
+  - Related Topics: Continual Learning, Lifelong Learning, Incremental Learning, Replay-based Methods, Regularization-based Approaches, etc.
 
-**How to improve the robustness, interpretability, and generalization of machine learning models in real-world applications?**  
-*Related Topics: Robust Learning, Explainable AI, Domain Adaptation, Trustworthy AI, etc.*
+- **How to improve the robustness, interpretability, and generalization of machine learning models in real-world applications?**
+  - Related Topics: Robust Learning, Explainable AI, Domain Adaptation, Trustworthy AI, etc.
+
 
 
 
