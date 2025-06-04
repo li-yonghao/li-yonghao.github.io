@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "李永豪 | Assistant Professor | Southwestern University of Finance and Economics"
+title: "李永豪"
 author_profile: true
 redirect_from: 
   - /about/
@@ -32,8 +32,7 @@ The long-term research goal of our team is to develop robust and trustworthy mac
 
 Recruitment
 ======
-**📢 招收对人工智能、联邦学习感兴趣，有较好编程基础的学生！**  
-请通过邮箱 [liyonghao@swufe.edu.cn](mailto:liyonghao@swufe.edu.cn) 联系我，附上**带普通生活照的个人简历、成绩单**。
+**📢 招收对人工智能、联邦学习感兴趣，有较好编程基础的学生！**  请通过邮箱 [liyonghao@swufe.edu.cn](mailto:liyonghao@swufe.edu.cn) 联系我，附上**带普通生活照的个人简历、成绩单**。
 
 
 
