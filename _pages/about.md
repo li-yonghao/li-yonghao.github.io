@@ -19,9 +19,7 @@ The long-term research goal of our team is to develop robust and trustworthy mac
 - **How to improve the robustness, interpretability, and generalization of machine learning models in real-world applications?**
   - Related Topics: Robust Learning, Explainable AI, Domain Adaptation, Trustworthy AI, etc.
 
-**📢 招收对人工智能、联邦学习感兴趣，有较好编程基础的学生！**
-
-请通过邮箱 [liyonghao@swufe.edu.cn](mailto:liyonghao@swufe.edu.cn) 联系我，附上**带普通生活照的个人简历、成绩单**。
+**📢 招收对人工智能、联邦学习感兴趣，有较好编程基础的学生！** 请通过邮箱 [liyonghao@swufe.edu.cn](mailto:liyonghao@swufe.edu.cn) 联系我，附上**带普通生活照的个人简历、成绩单**。
 
 
 
