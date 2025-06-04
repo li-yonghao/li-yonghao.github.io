@@ -14,20 +14,20 @@ I am currently an Assistant Professor at the [School of Computing and Artificial
 The long-term research goal of our team is to develop robust and trustworthy machine learning methods for complex, high-dimensional and distributed data environments. Most recently, our research focuses on **machine learning and its applications in data mining**, following are some related research problems:
 
 - **How to select informative and non-redundant features from high-dimensional data?**
-  - Related Topics: Feature Selection, Multi-label Feature Selection, Embedded Methods, Information-Theoretic Approaches, etc.
+  - Related Topics: Feature Selection, Multi-label Learning, etc.
 
 - **How to uncover and leverage causal relationships in observational data?**
-  - Related Topics: Causal Inference, Causal Discovery, Causal Representation Learning, Counterfactual Reasoning, etc.
+  - Related Topics: Causal Inference, Causal Discovery, Information-Theoretic Methods, etc.
 
 - **How to collaboratively train models across decentralized data sources while preserving data privacy?**
-  - Related Topics: Federated Learning, Privacy-Preserving Machine Learning, Communication-Efficient Learning, Personalized FL, etc.
+  - Related Topics: Federated Learning, Privacy-Preserving Machine Learning, Personalized Federated Learning, etc.
 
 - **How to enable models to continually learn from non-stationary data without catastrophic forgetting?**
-  - Related Topics: Continual Learning, Lifelong Learning, Incremental Learning, Replay-based Methods, Regularization-based Approaches, etc.
+  - Related Topics: Continual Learning, Lifelong Learning, Incremental Learning, etc.
 
 📢 Recruitment
 ======
-**招收对人工智能、特征工程、因果推断、联邦学习等感兴趣，有较好编程基础的学生！**  
+**招收对人工智能、特征工程、因果推断、联邦学习等领域感兴趣，有较好编程基础的学生！**  
 请通过邮箱 [liyonghao@swufe.edu.cn](mailto:liyonghao@swufe.edu.cn) 联系我，请附上**带普通生活照的个人简历、成绩单**。
 
 
