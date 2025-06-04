@@ -1,3 +1,14 @@
+---
+permalink: /
+title: "李永豪 | Assistant Professor | Southwestern University of Finance and Economics"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+## 📌 About Me
+
 I am currently an Assistant Professor at the [School of Computing and Artificial Intelligence, Southwestern University of Finance and Economics](https://it.swufe.edu.cn/). I obtained my Ph.D. degree in 2023 from the [College of Computer Science and Technology](https://ccst.jlu.edu.cn/) at [Jilin University](https://www.jlu.edu.cn/) under the supervision of Prof. [Liang Hu](https://ccst.jlu.edu.cn/info/1367/19276.htm). Additionally, I was also guided by Prof. [Wanfu Gao](https://ccst.jlu.edu.cn/info/1028/19117.htm). I am also a member of [CCCI Group](https://ccci.swufe.edu.cn/) ([认知计算与群智协同创新团队](https://ccci.swufe.edu.cn/)), which is led by Prof. [Xin Yang](https://it.swufe.edu.cn/info/1119/2300.htm) ([杨新](https://it.swufe.edu.cn/info/1119/2300.htm)).
 
 ## 📖 Research
@@ -19,20 +30,15 @@ The long-term research goal of our team is to develop robust and trustworthy mac
 - **How to improve the robustness, interpretability, and generalization of machine learning models in real-world applications?**
   - Related Topics: Robust Learning, Explainable AI, Domain Adaptation, Trustworthy AI, etc.
 
-**📢 招收对人工智能、联邦学习感兴趣，有较好编程基础的学生！** 请通过邮箱 [liyonghao@swufe.edu.cn](mailto:liyonghao@swufe.edu.cn) 联系我，附上**带普通生活照的个人简历、成绩单**。
+## 📢 Recruitment
+
+**📢 招收对人工智能、联邦学习感兴趣，有较好编程基础的学生！**  
+请通过邮箱 [liyonghao@swufe.edu.cn](mailto:liyonghao@swufe.edu.cn) 联系我，附上**带普通生活照的个人简历、成绩单**。
 
 
 
 
 
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
