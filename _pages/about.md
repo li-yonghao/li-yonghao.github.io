@@ -1,8 +1,25 @@
 I am currently an Assistant Professor at the [School of Computing and Artificial Intelligence, Southwestern University of Finance and Economics](https://it.swufe.edu.cn/). I obtained my Ph.D. degree in 2023 from the [College of Computer Science and Technology](https://ccst.jlu.edu.cn/) at [Jilin University](https://www.jlu.edu.cn/) under the supervision of Prof. [Liang Hu](https://ccst.jlu.edu.cn/info/1367/19276.htm). Additionally, I was also guided by Prof. [Wanfu Gao](https://ccst.jlu.edu.cn/info/1028/19117.htm). I am also a member of [CCCI Group](https://ccci.swufe.edu.cn/) ([认知计算与群智协同创新团队](https://ccci.swufe.edu.cn/)), which is led by professor [Xin Yang](https://ccci.swufe.edu.cn/) ([杨新](https://ccci.swufe.edu.cn/)). Self-motivated students are welcome to join my research group. Please feel free to contact me. (长期招收本科科研实训，硕士研究生)
 
 
+## 📖 Research
 
-My current research interests include machine learning and its applications in data mining, especially in the areas of feature selection, causal inference, federated learning, and continual learning. 
+The long-term research goal of our team is to develop robust and trustworthy machine learning methods for complex, high-dimensional, and distributed data environments. Most recently, our research mainly focuses on **machine learning and its applications in data mining**, especially in the following directions:
+
+**How to select informative and non-redundant features from high-dimensional data?**  
+*Related Topics: Feature Selection, Multi-label Feature Selection, Embedded Methods, Information-Theoretic Approaches, etc.*
+
+**How to uncover and leverage causal relationships in observational data?**  
+*Related Topics: Causal Inference, Causal Discovery, Causal Representation Learning, Counterfactual Reasoning, etc.*
+
+**How to collaboratively train models across decentralized data sources while preserving data privacy?**  
+*Related Topics: Federated Learning, Privacy-Preserving Machine Learning, Communication-Efficient Learning, Personalized FL, etc.*
+
+**How to enable models to continually learn from non-stationary data without catastrophic forgetting?**  
+*Related Topics: Continual Learning, Lifelong Learning, Incremental Learning, Replay-based Methods, Regularization-based Approaches, etc.*
+
+**How to improve the robustness, interpretability, and generalization of machine learning models in real-world applications?**  
+*Related Topics: Robust Learning, Explainable AI, Domain Adaptation, Trustworthy AI, etc.*
+
 
 
 
