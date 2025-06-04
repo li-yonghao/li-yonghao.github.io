@@ -35,7 +35,7 @@ The long-term research goal of our team is to develop robust and trustworthy mac
 ======
 - **2024.11: "Fusion-enhanced multi-label feature selection with sparse supplementation" is accepted by Information Fusion.**
 
-📝 Publications
+📝 Publications (Selected)
 ======
 [1] Yonghao Li, Liang Hu, Wanfu Gao. Multi-label feature selection via robust flexible sparse regularization[J].  
     Pattern Recognition, 2023, 134: 109074. (中科院1区TOP期刊, 财大A类)
@@ -73,16 +73,18 @@ The long-term research goal of our team is to develop robust and trustworthy mac
 ======
 **Reviewer for:**
 
-- Conference on Computer Vision and Pattern Recognition (**CVPR**)
-- European Conference on Computer Vision (**ECCV**)
-- International Conference on Computer Vision (**ICCV**)
-- Conference on Neural Information Processing Systems (**NeurIPS**)
-- International Conference on Learning Representations (**ICLR**)
-- Association for the Advancement of Artificial Intelligence (**AAAI**)
-- *Pattern Recognition*
-- *IEEE Transactions on Circuits and Systems for Video Technology*
-- *IEEE Transactions on Image Processing*
-- *Knowledge-Based Systems*
+- ACM International Conference on Multimedia (**ACM MM**)
+- IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**)
+- IEEE Transactions on Cybernetics (**TCYB**)
+- IEEE Transactions on Systems, Man and Cybernetics: Systems (**SMCA**)
+- IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**)
+- Pattern Recognition (**PR**)
+- Information Processing & Management (**IP&M**)
+- Knowledge-Based Systems (**KBS**)
+- Expert Systems With Applications (**ESWA**)
+- Applied Soft Computing (**ASOC**)
+- Information Sciences (**INS**)
+- *自动化学报*
 
 
 
