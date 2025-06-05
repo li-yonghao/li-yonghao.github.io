@@ -20,7 +20,7 @@ The long-term research goal of our team is to develop robust and trustworthy mac
   - Related Topics: Causal Inference, Causal Discovery, Information-Theoretic Methods, etc.
 
 - **How to collaboratively train models across decentralized data sources while preserving data privacy?**
-  - Related Topics: Federated Learning, Privacy-Preserving Machine Learning, Personalized Federated Learning, etc.
+  - Related Topics: Federated Learning, Privacy-Preserving Machine Learning, etc.
 
 - **How to enable models to continually learn from non-stationary data without catastrophic forgetting?**
   - Related Topics: Continual Learning, Lifelong Learning, Incremental Learning, etc.
