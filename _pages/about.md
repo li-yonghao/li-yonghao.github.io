@@ -46,7 +46,7 @@ The long-term research goal of our team is to develop robust and trustworthy mac
   }
   ol li {
     counter-increment: item;
-    margin-bottom: 8px;
+    margin-bottom: 7px;
   }
   ol li::before {
     content: "[" counter(item) "] ";
