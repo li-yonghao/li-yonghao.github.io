@@ -38,6 +38,12 @@ The long-term research goal of our team is to develop robust and trustworthy mac
 
 📝 Publications (Selected)
 ======
+<ol style="list-style-type: '[1] ';">
+  <li>Yonghao Li, Liang Hu, Wanfu Gao. *Multi-label feature selection via robust flexible sparse regularization* [J]. *Pattern Recognition*, 2023, 134: 109074. (中科院1区TOP期刊, 财大A类)</li>
+  <li>Yonghao Li, Liang Hu, Wanfu Gao. *Robust sparse and low-redundant multi-label feature selection with dynamic local and global structure preservation* [J]. *Pattern Recognition*, 2023, 134: 109120. (中科院1区TOP期刊, 财大A类)</li>
+  <li>Yonghao Li, Liang Hu, Wanfu Gao. *Label correlations variation for robust multi-label feature selection* [J]. *Information Sciences*, 2022, 609: 1075-1097. (中科院1区TOP期刊, 财大A类)</li>
+</ol>
+
 &emsp;[1] Yonghao Li, Liang Hu, Wanfu Gao. *Multi-label feature selection via robust flexible sparse regularization* [J]. *Pattern Recognition*, 2023, 134: 109074. (中科院1区TOP期刊, 财大A类)
 
 &emsp;[2] Yonghao Li, Liang Hu, Wanfu Gao. *Robust sparse and low-redundant multi-label feature selection with dynamic local and global structure preservation* [J]. *Pattern Recognition*, 2023, 134: 109120. (中科院1区TOP期刊, 财大A类)
