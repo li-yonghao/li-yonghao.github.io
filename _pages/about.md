@@ -11,7 +11,6 @@ I am currently an Assistant Professor at the [School of Computing and Artificial
 
 📖 Research
 ======
----
 The long-term research goal of our team is to develop robust and trustworthy machine learning methods for complex, high-dimensional and distributed data environments. Most recently, our research focuses on **machine learning and its applications in data mining**, following are some related research problems:
 
 - **How to select informative and non-redundant features from high-dimensional data?**
