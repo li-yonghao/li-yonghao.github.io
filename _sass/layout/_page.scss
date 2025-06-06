@@ -399,3 +399,9 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/* 两端对齐正文内容 */
+.article, .post-content, .page-content {
+  text-align: justify;
+}
+
