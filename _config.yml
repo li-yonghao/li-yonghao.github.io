@@ -28,7 +28,8 @@ author:
   bio              : "Assistant Professor"
   location         : "Chengdu"
   employer         : "SWUFE"
-  uri              : https://www.swufe.edu.cn/
+  employer_url     : "https://www.swufe.edu.cn/"
+  uri              : hhttps://it.swufe.edu.cn/info/1122/17058.htm
   email            : "liyonghao@swufe.edu.cn" 
 
   # Academic websites
