@@ -1,49 +1,90 @@
 ---
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+layout: page
+title: "About Me"
+permalink: /about/
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-A data-driven personal website
+
+I am currently an Assistant Professor at the [School of Computing and Artificial Intelligence, Southwestern University of Finance and Economics](https://it.swufe.edu.cn/). I obtained my Ph.D. degree in 2023 from the [College of Computer Science and Technology](https://ccst.jlu.edu.cn/) at [Jilin University](https://www.jlu.edu.cn/) under the supervision of Prof. [Liang Hu](https://ccst.jlu.edu.cn/info/1367/19276.htm). Additionally, I was also guided by Prof. [Wanfu Gao](https://ccst.jlu.edu.cn/info/1028/19117.htm). I am also a member of [CCCI Group](https://ccci.swufe.edu.cn/) ([认知计算与群智协同创新团队](https://ccci.swufe.edu.cn/)), which is led by Prof. [Xin Yang](https://it.swufe.edu.cn/info/1119/2300.htm) ([杨新](https://it.swufe.edu.cn/info/1119/2300.htm)).
+
+Research
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+The long-term research goal of our team is to develop robust and trustworthy machine learning methods for complex, high-dimensional and distributed data environments. Most recently, our research focuses on **machine learning and its applications in data mining**, following are some related research problems:
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- **How to select informative and non-redundant features from high-dimensional data?**
+  - Related Topics: Feature Selection, (Partial) Multi-label Learning, etc.
 
-Getting started
+- **How to uncover and leverage causal relationships in observational data?**
+  - Related Topics: Causal Inference, Causal Discovery, Information-Theoretic Methods, etc.
+
+- **How to collaboratively train models across decentralized data sources while preserving data privacy?**
+  - Related Topics: Federated Learning, Privacy-Preserving Machine Learning, etc.
+
+- **How to enable models to continually learn from non-stationary data without catastrophic forgetting?**
+  - Related Topics: Continual Learning, Lifelong Learning, Incremental Learning, etc.
+
+Recruitment
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+**招收对特征工程、因果推断、联邦学习、持续学习等人工智能和数据挖掘领域感兴趣，有较好编程基础的学生！**  
+请通过邮箱 [liyonghao@swufe.edu.cn](mailto:liyonghao@swufe.edu.cn) 联系我，附上**带普通生活照的个人简历、成绩单**。
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+News
+======
+- **2025.06: "Exploring multi-label feature selection via feature and label information supplementation" is accepted by EAAI.**
+- **2025.04: "MI-MCF: A Mutual Information Based Multi-Label Causal Feature Selection" is accepted by IEEE TNNLS.**
+- **2024.11: "Fusion-enhanced multi-label feature selection with sparse supplementation" is accepted by Information Fusion.**
 
-**Markdown generator**
+Publications (Selected)
+======
+<style>
+  ol {
+    counter-reset: item;
+    list-style: none;
+    padding-left: 0;
+  }
+  ol li {
+    counter-increment: item;
+    margin-bottom: 7px;
+  }
+  ol li::before {
+    content: "[" counter(item) "] ";
+    font-weight: bold;
+  }
+</style>
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+<ol>
+  <li>Yonghao Li, Liang Hu, Wanfu Gao. Multi-label feature selection via robust flexible sparse regularization [J]. Pattern Recognition, 2023, 134: 109074. (中科院1区TOP期刊, 财大A类)</li>
+  <li>Yonghao Li, Liang Hu, Wanfu Gao. Robust sparse and low-redundant multi-label feature selection with dynamic local and global structure preservation [J]. Pattern Recognition, 2023, 134: 109120. (中科院1区TOP期刊, 财大A类)</li>
+  <li>Yonghao Li, Liang Hu, Wanfu Gao. Label correlations variation for robust multi-label feature selection [J]. Information Sciences, 2022, 609: 1075-1097. (中科院1区TOP期刊, 财大A类)</li>
+  <li>Yonghao Li, Liang Hu, Wanfu Gao. Multi-label feature selection with high-sparse personalized and low-redundancy shared common features [J]. Information Processing & Management, 2024, 61(3): 103633. (中科院1区TOP期刊, 财大B类)</li>
+  <li>Liang Hu, Yonghao Li, Wanfu Gao, Ping Zhang, Juncheng Hu. Multi-label feature selection with shared common mode [J]. Pattern Recognition, 2020, 104: 107344. (中科院1区TOP期刊, 财大A类)</li>
+  <li>Yonghao Li, Juncheng Hu, Wanfu Gao. Robust multi-label feature selection with shared label enhancement [J]. Knowledge and Information Systems, 2022, 64(12): 3343-3372. (CCF-B类期刊)</li>
+  <li>Wanfu Gao, Yonghao Li, Liang Hu. Multilabel Feature Selection with Constrained Latent Structure Shared Term [J]. IEEE Transactions on Neural Networks and Learning Systems, 2023, 34(3): 1253-1262. (中科院1区TOP期刊, 财大A类)</li>
+  <li>Liang Hu, Lingbo Gao, Yonghao Li, Ping Zhang, Wanfu Gao. Feature-specific mutual information variation for multi-label feature selection [J]. Information Sciences, 2022, 593: 449-471. (中科院1区TOP期刊, 财大A类)</li>
+  <li>李永豪, 胡亮, 高万夫. 基于稀疏系数矩阵重构的多标记特征选择[J]. 计算机学报, 2022, 45(09): 1827-1841. (CCF-A类中文期刊，财大A类)</li>
+  <li>李永豪, 胡亮, 高万夫. 基于动态图拉普拉斯的多标记特征选择方法[J]. 通信学报, 2020, 41(12): 47-59. (CCF-B类中文期刊)</li>
+</ol>
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+更多文章见[Google Scholar](https://scholar.google.com/citations?user=6vb2aWkAAAAJ&hl=en).
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+Academic Service
+======
+**Reviewer for:**
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- ACM International Conference on Multimedia (**ACM MM**)
+- IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**)
+- IEEE Transactions on Cybernetics (**TCYB**)
+- IEEE Transactions on Systems, Man and Cybernetics: Systems (**TSMCA**)
+- IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**)
+- Pattern Recognition (**PR**)
+- Information Processing & Management (**IP&M**)
+- Knowledge-Based Systems (**KBS**)
+- Expert Systems With Applications (**ESWA**)
+- Applied Soft Computing (**ASOC**)
+- Information Sciences (**INS**)
+- 自动化学报
+
+
+
