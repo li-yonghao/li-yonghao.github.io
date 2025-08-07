@@ -68,6 +68,7 @@ Academic Service
 ======
 **Reviewer for:**
 
+- AAAI Conference on Artificial Intelligence (**AAAI**)
 - ACM International Conference on Multimedia (**ACM MM**)
 - IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**)
 - IEEE Transactions on Cybernetics (**TCYB**)
