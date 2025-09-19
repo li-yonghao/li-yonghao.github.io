@@ -35,6 +35,8 @@ Recruitment
 
 News
 ======
+- **2025.09：《基于复杂数据驱动的联邦持续特征选择研究》获得符号计算与知识工程教育部重点实验室第一批开放课题项目支持。**
+- **2025.09："Multi-label feature selection with high-sparse personalized and low-redundancy shared common features"论文入选ESI高被引。**
 - **2025.06: "Exploring multi-label feature selection via feature and label information supplementation" is accepted by EAAI.**
 - **2025.04: "Multi-granularity Knowledge Transfer for Continual Reinforcement Learning" is accepted by IJCAI.**
 - **2025.04: "MI-MCF: A Mutual Information Based Multi-Label Causal Feature Selection" is accepted by IEEE TNNLS.**
