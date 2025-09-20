@@ -72,15 +72,18 @@ Academic Service
 
 - AAAI Conference on Artificial Intelligence (**AAAI**)
 - ACM International Conference on Multimedia (**ACM MM**)
+- IEEE Transactions on Knowledge and Data Engineering (**TKDE**)
 - IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**)
 - IEEE Transactions on Cybernetics (**TCYB**)
 - IEEE Transactions on Systems, Man and Cybernetics: Systems (**TSMCA**)
+- IEEE Transactions on Fuzzy Systems (**TFS**)
 - IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**)
 - Pattern Recognition (**PR**)
 - Information Processing & Management (**IP&M**)
 - Knowledge-Based Systems (**KBS**)
 - Expert Systems With Applications (**ESWA**)
 - Applied Soft Computing (**ASOC**)
+- Neurocomputing
 - Information Sciences (**INS**)
 - 自动化学报
 
