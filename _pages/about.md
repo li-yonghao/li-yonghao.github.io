@@ -90,7 +90,7 @@ Academic Service
 Former Students (Graduate Destinations)
 ======
 **协助指导：**
-- 刘亚辉（中科院自动化研究所）
+- 刘亚辉（中国科学院自动化研究所）
 - 吴佳蔓（中国人民大学）
 - 何心怡（南京大学）
 - 刘潞涵（北京航空航天大学）
