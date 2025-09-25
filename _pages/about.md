@@ -87,7 +87,7 @@ Academic Service
 - Information Sciences (**INS**)
 - 自动化学报
 
-Former Students (Current Positions)
+Former Students (Graduate Destinations)
 ======
 **协助指导：**
 - 刘亚辉（中科院自动化研究所）
