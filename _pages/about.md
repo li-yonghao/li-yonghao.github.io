@@ -89,4 +89,10 @@ Academic Service
 
 Former Students (Current Positions)
 ======
-Coming Soon!
+**协助指导：**
+刘亚辉（中科院自动化研究所）
+何心怡（北京大学）
+刘潞涵（北京航空航天大学）
+宋朝阳（吉林大学）
+庞宇竹（吉林大学）
+王亚楠（吉林大学）
