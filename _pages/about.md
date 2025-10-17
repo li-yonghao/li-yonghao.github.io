@@ -78,6 +78,7 @@ Academic Service
 - IEEE Transactions on Systems, Man and Cybernetics: Systems (**TSMCA**)
 - IEEE Transactions on Fuzzy Systems (**TFS**)
 - IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**)
+- IEEE Transactions on Consumer Electronics (**TCE**)
 - Pattern Recognition (**PR**)
 - Information Processing & Management (**IP&M**)
 - Knowledge-Based Systems (**KBS**)
@@ -89,7 +90,7 @@ Academic Service
 
 Former Students (Graduate Destinations)
 ======
-**协助指导：**
+**协助/指导：**
 - 刘亚辉（中国科学院自动化研究所）
 - 吴佳蔓（中国人民大学）
 - 何心怡（南京大学）
