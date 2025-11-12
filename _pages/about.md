@@ -35,6 +35,7 @@ Recruitment
 
 News
 ======
+- **2025.11: 《联邦持续特征学习关键技术研究》获得中央高校基本科研业务费青年教师成长项目支持**
 - **2025.11: 当选为中国中文信息学会大模型与生成专业委员会委员。**
 - **2025.10: "Negative Label-Aware and Correlation-Enhanced Multi-Label Feature Selection" is accepted by KBS.**
 - **2025.09：《基于复杂数据驱动的联邦持续特征选择研究》获得符号计算与知识工程教育部重点实验室第一批项目支持。**
