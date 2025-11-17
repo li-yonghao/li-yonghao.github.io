@@ -35,6 +35,7 @@ Recruitment
 
 News
 ======
+- **2025.11: 指导李响、黄小欧、游皓然等学生获2025年“华为杯”中国研究生数学建模竞赛二等奖。**
 - **2025.11: 《联邦持续特征学习关键技术研究》获得中央高校基本科研业务费青年教师成长项目支持。**
 - **2025.11: 当选为中国中文信息学会大模型与生成专业委员会委员。**
 - **2025.10: "Negative Label-Aware and Correlation-Enhanced Multi-Label Feature Selection" is accepted by KBS.**
