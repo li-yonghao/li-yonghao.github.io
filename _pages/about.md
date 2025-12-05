@@ -79,6 +79,7 @@ Academic Service
 - AAAI Conference on Artificial Intelligence (**AAAI**)
 - ACM International Conference on Multimedia (**ACM MM**)
 - IEEE Transactions on Knowledge and Data Engineering (**TKDE**)
+- IEEE Transactions on Multimedia (**TMM**)
 - IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**)
 - IEEE Transactions on Cybernetics (**TCYB**)
 - IEEE Transactions on Systems, Man and Cybernetics: Systems (**TSMCA**)
