@@ -91,6 +91,7 @@ Academic Service
 - Information Processing & Management (**IP&M**)
 - Knowledge-Based Systems (**KBS**)
 - Expert Systems With Applications (**ESWA**)
+- Fuzzy Sets and Systems (**FSS**)
 - Applied Soft Computing (**ASOC**)
 - Neurocomputing
 - Information Sciences (**INS**)
