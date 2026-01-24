@@ -87,7 +87,7 @@ Academic Service
 - IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**)
 - IEEE Transactions on Cybernetics (**TCYB**)
 - IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)
-- IEEE Transactions on Systems, Man and Cybernetics: Systems (**TSMCA**)
+- IEEE Transactions on Systems, Man and Cybernetics: Systems (**TSMC**)
 - IEEE Transactions on Fuzzy Systems (**TFS**)
 - IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**)
 - IEEE Transactions on Consumer Electronics (**TCE**)
