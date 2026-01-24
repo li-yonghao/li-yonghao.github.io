@@ -78,6 +78,7 @@ Academic Service
 ======
 **Reviewer for:**
 - IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)
+- European Conference on Computer Vision (**ECCV**)
 - AAAI Conference on Artificial Intelligence (**AAAI**)
 - ACM International Conference on Multimedia (**ACM MM**)
 - ACM Transactions on Knowledge Discovery from Data (**TKDD**)
