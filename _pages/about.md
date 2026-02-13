@@ -93,6 +93,7 @@ Academic Service
 - IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**)
 - IEEE Transactions on Consumer Electronics (**TCE**)
 - Pattern Recognition (**PR**)
+- Neural Networks (**NN**)
 - Information Processing & Management (**IP&M**)
 - Knowledge-Based Systems (**KBS**)
 - Expert Systems With Applications (**ESWA**)
