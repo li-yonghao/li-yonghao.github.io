@@ -47,7 +47,7 @@ News
 - **2025.08：当选为中国人工智能学会粒计算与知识发现专业委会委员。**
 - **2025.06: "Exploring multi-label feature selection via feature and label information supplementation" is accepted by EAAI.**
 - **2025.05: 指导谢天翊等学生的科研项目获大学生创新训练计划项目立项支持。**
-- **2025.04: 被邀请为教育部学位与研究生教育发展中心评审专家。**
+- **2025.04: 被邀请担任教育部学位与研究生教育发展中心评审专家。**
 - **2025.04: "Multi-granularity Knowledge Transfer for Continual Reinforcement Learning" is accepted by IJCAI.**
 - **2025.04: "MI-MCF: A Mutual Information Based Multi-Label Causal Feature Selection" is accepted by IEEE TNNLS.**
 - **2024.11: "Fusion-enhanced multi-label feature selection with sparse supplementation" is accepted by Information Fusion.**
