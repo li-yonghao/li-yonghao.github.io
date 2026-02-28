@@ -94,6 +94,7 @@ Academic Service
 - IEEE Transactions on Fuzzy Systems (**TFS**)
 - IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**)
 - IEEE Transactions on Consumer Electronics (**TCE**)
+- Information Fusion (**INFFUS**)
 - Pattern Recognition (**PR**)
 - Neural Networks (**NN**)
 - Information Processing & Management (**IP&M**)
