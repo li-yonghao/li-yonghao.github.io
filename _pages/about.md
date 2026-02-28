@@ -35,14 +35,14 @@ Recruitment
 
 News
 ======
-- **2026.02: 指导本科生刘亚辉等完成论文《Multi-Label Feature Selection Considering Candidate Space Internal Information》并发表于《Pattern Recognition》（中科院1区TOP期刊，财大A类）。**
+- **2026.02: 指导本科生刘亚辉等发表论文《Multi-Label Feature Selection Considering Candidate Space Internal Information》（Pattern Recognition，中科院1区TOP，财大A类）。**
 - **2026.02: 荣获中国人工智能学会吴文俊人工智能科技进步奖二等奖。**
 - **2026.01: 荣获西南财经大学研究生教学成果奖一等奖。**
 - **2025.12: 担任第六届大数据经济与信息化管理学术会议（BDEIM 2025）本地组织主席。**
 - **2025.11: 指导李响、黄小欧、游皓然等学生获2025年“华为杯”中国研究生数学建模竞赛二等奖(排名：660/14790)。**
 - **2025.11: 《联邦持续特征学习关键技术研究》获得中央高校基本科研业务费青年教师成长项目支持。**
 - **2025.11: 当选为中国中文信息学会大模型与生成专业委员会委员。**
-- **2025.10: "Negative Label-Aware and Correlation-Enhanced Multi-Label Feature Selection" is accepted by KBS.**
+- **2025.10: 指导硕士生李响等发表论文《Negative Label-Aware and Correlation-Enhanced Multi-Label Feature Selection》（KBS，中科院1区TOP，财大A类）。**
 - **2025.09：《基于复杂数据驱动的联邦持续特征选择研究》获得符号计算与知识工程教育部重点实验室第一批项目支持。**
 - **2025.09："Multi-label feature selection with high-sparse personalized and low-redundancy shared common features"论文入选ESI高被引。**
 - **2025.08：当选为中国人工智能学会粒计算与知识发现专业委会委员。**
