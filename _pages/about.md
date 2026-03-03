@@ -35,6 +35,7 @@ Recruitment
 
 News
 ======
+- **2026.03: 担任第五届人工智能与机器学习前沿国际会议（FAIML 2026）《多粒度认知机器学习：理论，方法与应用》专题主席。**
 - **2026.03: 指导硕士生王杨扬等发表论文《Lifelong Multi-View Clustering with Anchor-Prototype Collaboration》（Pattern Recognition，中科院1区TOP，财大A类）。**
 - **2026.02: 指导本科生刘亚辉等发表论文《Multi-Label Feature Selection Considering Candidate Space Internal Information》（Pattern Recognition，中科院1区TOP，财大A类）。**
 - **2026.02: 荣获中国人工智能学会吴文俊人工智能科技进步奖二等奖。**
