@@ -16,7 +16,7 @@ Research
 The long-term research goal of our team is to develop robust and trustworthy machine learning methods for complex, high-dimensional and distributed data environments. Most recently, our research focuses on **machine learning and its applications in data mining**, following are some related research problems:
 
 - **How to select informative and non-redundant features from high-dimensional data?**
-  - Related Topics: Feature Selection, (Partial) Multi-label Learning, etc.
+  - Related Topics: Feature Selection, (Partial) Multi-label Learning, Multi-view Learning, etc.
 
 - **How to uncover and leverage causal relationships in observational data?**
   - Related Topics: Causal Inference, Causal Discovery, Information-Theoretic Methods, etc.
