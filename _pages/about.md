@@ -101,6 +101,7 @@ Academic Service
 - Neural Networks (**NN**)
 - Information Processing & Management (**IP&M**)
 - Knowledge-Based Systems (**KBS**)
+- Engineering Applications of Artificial Intelligence (**EAAI**)
 - Expert Systems With Applications (**ESWA**)
 - Fuzzy Sets and Systems (**FSS**)
 - Applied Soft Computing (**ASOC**)
