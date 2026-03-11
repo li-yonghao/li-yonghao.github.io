@@ -38,7 +38,7 @@ News
 - **2026.03: 担任第五届人工智能与机器学习前沿国际会议（FAIML 2026）《多粒度认知机器学习：理论，方法与应用》专题主席。**
 - **2026.03: 指导硕士生王杨扬等发表论文《Lifelong Multi-View Clustering with Anchor-Prototype Collaboration》（Pattern Recognition，中科院1区TOP，财大A类）。**
 - **2026.02: 指导本科生刘亚辉等发表论文《Multi-Label Feature Selection Considering Candidate Space Internal Information》（Pattern Recognition，中科院1区TOP，财大A类）。**
-- **2026.02: 荣获中国人工智能学会吴文俊人工智能科技进步奖二等奖。**
+- **2026.02: 荣获中国人工智能学会吴文俊人工智能科技进步二等奖。**
 - **2026.01: 荣获西南财经大学研究生教学成果奖一等奖。**
 - **2025.12: 担任第六届大数据经济与信息化管理学术会议（BDEIM 2025）本地组织主席。**
 - **2025.11: 指导李响、黄小欧、游皓然等学生获2025年“华为杯”中国研究生数学建模竞赛二等奖(排名：660/14790)。**
