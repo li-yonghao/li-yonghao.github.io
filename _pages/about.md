@@ -114,7 +114,7 @@ Former Students (Graduate Destinations)
 **指导/协助指导硕士生：**
 - 王杨扬（2023级硕士，西南财经大学在读）
 - 邓小钰（2024级硕士，西南财经大学在读）
-- [李&nbsp;&nbsp;&nbsp;响（2024级硕士，西南财经大学在读）]([https://www.jlu.edu.cn/](https://lixiang3270.github.io/))
+- [李&nbsp;&nbsp;&nbsp;响（2024级硕士，西南财经大学在读）](https://lixiang3270.github.io/)
 - 黄小欧（2025级硕士，西南财经大学在读）
 - 邹宇东（2025级硕士，西南财经大学在读）
 - 宋朝阳（2025级硕士，吉林大学在读）
