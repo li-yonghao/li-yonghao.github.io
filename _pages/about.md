@@ -111,7 +111,7 @@ Academic Service
 
 Former Students (Graduate Destinations)
 ======
-**指导/协助指导（学生当前去向）：**
+**指导/协助指导：**
 
 - 刘亚辉（中国科学院自动化研究所，2022级本科）
 - 吴佳蔓（中国人民大学，2022级本科）
