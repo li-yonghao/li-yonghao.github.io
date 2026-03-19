@@ -30,7 +30,7 @@ The long-term research goal of our team is to develop robust and trustworthy mac
 Recruitment
 ======
 **招收对特征工程、因果推断、联邦学习、持续学习等人工智能和数据挖掘领域感兴趣，有较好编程基础的学生！**  
-请通过邮箱 [liyonghao@swufe.edu.cn](mailto:liyonghao@swufe.edu.cn) 联系我，附上**带普通生活照的个人简历、成绩单**。
+请通过邮箱 [liyonghao@swufe.edu.cn](mailto:liyonghao@swufe.edu.cn) 联系我，附上**带普通生活照的个人简历、成绩单**,课题组氛围自由融洽，欢迎童鞋们加入。
 
 
 News
@@ -114,7 +114,7 @@ Former Students (Graduate Destinations)
 **指导/协助指导硕士生：**
 - 王杨扬（2023级硕士，西南财经大学在读）
 - 邓小钰（2024级硕士，西南财经大学在读）
-- 李&nbsp;&nbsp;&nbsp;响（2024级硕士，西南财经大学在读）
+- [李&nbsp;&nbsp;&nbsp;响（2024级硕士，西南财经大学在读）]([https://www.jlu.edu.cn/](https://lixiang3270.github.io/))
 - 黄小欧（2025级硕士，西南财经大学在读）
 - 邹宇东（2025级硕士，西南财经大学在读）
 - 宋朝阳（2025级硕士，吉林大学在读）
