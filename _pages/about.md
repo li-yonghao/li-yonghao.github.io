@@ -112,6 +112,7 @@ Academic Service
 Former Students (Graduate Destinations)
 ======
 **指导/协助指导硕士生：**
+- 王杨扬（2023级硕士，西南财经大学在读）
 - 邓小钰（2024级硕士，西南财经大学在读）
 - 李&nbsp;&nbsp;&nbsp;响（2024级硕士，西南财经大学在读）
 - 黄小欧（2025级硕士，西南财经大学在读）
