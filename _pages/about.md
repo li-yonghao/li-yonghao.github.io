@@ -81,6 +81,7 @@ Publications (Selected)
 Academic Service
 ======
 **Reviewer for:**
+- Conference on Neural Information Processing Systems (**NeurIPS**)
 - IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)
 - European Conference on Computer Vision (**ECCV**)
 - AAAI Conference on Artificial Intelligence (**AAAI**)
