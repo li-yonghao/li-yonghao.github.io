@@ -13,7 +13,7 @@ I am currently an Assistant Professor at the [School of Computing and Artificial
 
 Recruitment
 ======
-**招收对特征工程、因果推断、联邦学习、持续学习等人工智能和数据挖掘领域感兴趣，有较好编程基础的学生！**  
+**招收对特征工程、多视图/多模态学习、因果推断、联邦学习、持续学习等人工智能和数据挖掘领域感兴趣，有较好编程基础的学生！**  
 请通过邮箱 [liyonghao@swufe.edu.cn](mailto:liyonghao@swufe.edu.cn) 联系我，附上**带普通生活照的个人简历**。课题组氛围自由融洽，欢迎感兴趣的同学加入。
 
 Research
