@@ -13,7 +13,7 @@ I am currently an Assistant Professor at the [School of Computing and Artificial
 
 Recruitment
 ======
-**招收对特征工程、多视图/多模态学习、因果推断、联邦学习、持续学习等人工智能和数据挖掘领域感兴趣，有较好编程基础的学生！**  团队与清华大学、中国科学院大学、中国科学技术大学、吉林大学、大连理工大学、美国亚利桑那州立大学、英国杜伦大学等国内外诸多高校开展学术交流。如有意向，
+**招收对[特征工程](https://join.qq.com/post_detail.html?postid=1147651181896853511)、[多视图/多模态学习](https://join.qq.com/post_detail.html?postid=1149822244424536066)、[因果推断](https://join.qq.com/post_detail.html?postid=1147651181896853511)、联邦学习、持续学习等人工智能和数据挖掘领域感兴趣，有较好编程基础的学生！**  团队与清华大学、中国科学院大学、中国科学技术大学、吉林大学、大连理工大学、美国亚利桑那州立大学、英国杜伦大学等国内外诸多高校开展学术交流。如有意向，
 请通过邮箱 [liyonghao@swufe.edu.cn](mailto:liyonghao@swufe.edu.cn) 联系我，附上**带普通生活照的个人简历**，我会尽快回复邮件并安排面谈。课题组氛围自由融洽，欢迎感兴趣的同学加入。
 
 Research
