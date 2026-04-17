@@ -116,7 +116,7 @@ Academic Service
 Former Students (Graduate Destinations)
 ======
 **指导/协助指导硕士生：**
-- 王杨扬（2023级硕士，西南财经大学在读）
+- 王杨扬（2023级硕士，西南财经大学在读，就业去向：中国电气装备集团财务公司）
 - 邓小钰（2024级硕士，西南财经大学在读）
 - [李&nbsp;&nbsp;&nbsp;响（2024级硕士，西南财经大学在读）](https://lixiang3270.github.io/)
 - [黄小欧（2025级硕士，西南财经大学在读）](https://xiaoouhuang507-ux.github.io)
@@ -139,5 +139,6 @@ Former Students (Graduate Destinations)
 - 谢若枫（2024级本科，西南财经大学在读）
 - 张译匀（2024级本科，西南财经大学在读）
 - 赵艳茹（2025级本科，西南财经大学在读）
+- 方子若（2025级本科，西南财经大学在读）
 
 
