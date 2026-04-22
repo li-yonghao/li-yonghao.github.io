@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-我目前是[西南财经大学计算机与人工智能学院](https://it.swufe.edu.cn/)的青年教师。 我于2023年12月在[吉林大学](https://www.jlu.edu.cn/)[计算机科学与技术学院](https://ccst.jlu.edu.cn/)获得工学博士学位，师从[胡亮教授](https://ccst.jlu.edu.cn/info/1367/19276.htm)，同时得到[高万夫教授](https://ccst.jlu.edu.cn/info/1028/19117.htm)的指导。我也是[认知计算与群智协同创新团队](https://ccci.swufe.edu.cn/)（[CCCI](https://ccci.swufe.edu.cn/)）成员，该团队由[杨新教授](https://it.swufe.edu.cn/info/1119/2300.htm)负责。
+我目前是[西南财经大学](https://www.swufe.edu.cn/)[计算机与人工智能学院](https://it.swufe.edu.cn/)的青年教师。 我于2023年12月在[吉林大学](https://www.jlu.edu.cn/)[计算机科学与技术学院](https://ccst.jlu.edu.cn/)获得工学博士学位，师从[胡亮教授](https://ccst.jlu.edu.cn/info/1367/19276.htm)，同时得到[高万夫教授](https://ccst.jlu.edu.cn/info/1028/19117.htm)的指导。我也是[认知计算与群智协同创新团队](https://ccci.swufe.edu.cn/)（[CCCI](https://ccci.swufe.edu.cn/)）成员，该团队由[杨新教授](https://it.swufe.edu.cn/info/1119/2300.htm)负责。
 
 招生说明
 ======
