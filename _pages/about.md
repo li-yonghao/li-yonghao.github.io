@@ -9,30 +9,26 @@ redirect_from:
 
 
 
-I am currently an Assistant Professor at the [School of Computing and Artificial Intelligence, Southwestern University of Finance and Economics](https://it.swufe.edu.cn/). I obtained my Ph.D. degree in 2023 from the [College of Computer Science and Technology](https://ccst.jlu.edu.cn/) at [Jilin University](https://www.jlu.edu.cn/) under the supervision of Prof. [Liang Hu](https://ccst.jlu.edu.cn/info/1367/19276.htm). Additionally, I was also guided by Prof. [Wanfu Gao](https://ccst.jlu.edu.cn/info/1028/19117.htm). I am also a member of [CCCI Group](https://ccci.swufe.edu.cn/) ([认知计算与群智协同创新团队](https://ccci.swufe.edu.cn/)), which is led by Prof. [Xin Yang](https://it.swufe.edu.cn/info/1119/2300.htm) ([杨新](https://it.swufe.edu.cn/info/1119/2300.htm)).
+我目前是[西南财经大学计算机与人工智能学院](https://it.swufe.edu.cn/)的青年教师。 我于2023年在[吉林大学](https://www.jlu.edu.cn/)[计算机科学与技术学院](https://ccst.jlu.edu.cn/)获得工学博士学位，师从[胡亮教授](https://ccst.jlu.edu.cn/info/1367/19276.htm)，同时得到[高万夫教授](https://ccst.jlu.edu.cn/info/1028/19117.htm)的指导。我也是[认知计算与群智协同创新团队](https://ccci.swufe.edu.cn/)（[CCCI](https://ccci.swufe.edu.cn/)）成员，该团队由[杨新教授](https://it.swufe.edu.cn/info/1119/2300.htm)负责。
 
-Recruitment
+招生说明
 ======
 **招收对[特征工程](https://join.qq.com/post_detail.html?postid=1147651181896853511)、[多视图/多模态学习](https://join.qq.com/post_detail.html?postid=1149822244424536066)、[因果推断](https://join.qq.com/post_detail.html?postid=1147651181896853511)、[联邦持续学习](https://join.qq.com/post_detail.html?postid=1231829074687944765)等人工智能和数据挖掘领域感兴趣，有较好编程基础的学生！**  
 团队与清华大学、中国科学院大学、中国科学技术大学、南京大学、吉林大学、大连理工大学、美国亚利桑那州立大学、英国杜伦大学等国内外诸多高校开展学术交流。如有意向，请通过邮箱 [liyonghao@swufe.edu.cn](mailto:liyonghao@swufe.edu.cn) 联系我，附上**个人简历**，我会尽快回复邮件并安排面谈。课题组氛围自由融洽，欢迎感兴趣的同学加入。
 
-Research
+研究方向
 ======
-The long-term research goal of our team is to develop robust and trustworthy machine learning methods for complex, high-dimensional and distributed data environments. Most recently, our research focuses on **machine learning and its applications in data mining**, following are some related research problems:
+我们团队的长期研究目标是为复杂、高维和分布式的数据环境开发鲁棒且可信赖的机器学习方法。近期，我们的研究重点是**机器学习及其在数据挖掘中的应用**，相关的研究问题如下：
+- **如何从高维数据中选取信息丰富且无冗余的特征？**
+  - 相关主题：多视图/多模态学习、特征选择、（偏）多标签学习等。
+- **如何揭示并利用观测数据中的因果关系？**
+  - 相关主题：因果推断、因果发现、信息论方法等。
+- **如何在保护数据隐私的前提下，跨去中心化数据源协同训练模型？**
+  - 相关主题：联邦学习、隐私保护机器学习等。
+- **如何使模型能够从非平稳数据中持续学习，并避免灾难性遗忘？**
+  - 相关主题：持续学习、终身学习、增量学习等。
 
-- **How to select informative and non-redundant features from high-dimensional data?**
-  - Related Topics: Feature Selection, (Partial) Multi-label Learning, Multi-view Learning, etc.
-
-- **How to uncover and leverage causal relationships in observational data?**
-  - Related Topics: Causal Inference, Causal Discovery, Information-Theoretic Methods, etc.
-
-- **How to collaboratively train models across decentralized data sources while preserving data privacy?**
-  - Related Topics: Federated Learning, Privacy-Preserving Machine Learning, etc.
-
-- **How to enable models to continually learn from non-stationary data without catastrophic forgetting?**
-  - Related Topics: Continual Learning, Lifelong Learning, Incremental Learning, etc.
-
-News
+最新新闻
 ======
 - **2026.04: 合作指导硕士生陈嘉明等发表论文《Graph-fusion guided data reconstruction for multi-view multi-label feature selection》（Pattern Recognition，中科院1区TOP，财大A类）。**
 - **2026.03: 担任第五届人工智能与机器学习前沿国际会议（FAIML 2026）《多粒度认知机器学习：理论，方法与应用》专题主席。**
@@ -55,7 +51,7 @@ News
 - **2025.04: "MI-MCF: A Mutual Information Based Multi-Label Causal Feature Selection" is accepted by IEEE TNNLS.**
 - **2024.11: "Fusion-enhanced multi-label feature selection with sparse supplementation" is accepted by Information Fusion.**
 
-Publications (Selected)
+发表论文 (节选)
 ======
 [1] Yonghao Li, Liang Hu, Wanfu Gao. Multi-label feature selection via robust flexible sparse regularization [J]. *Pattern Recognition*, 2023, 134: 109074. (中科院1区TOP期刊, 财大A类)
 
@@ -79,9 +75,9 @@ Publications (Selected)
 
 更多文章见[Google Scholar](https://scholar.google.com/citations?user=6vb2aWkAAAAJ&hl=en).
 
-Academic Service
+学术服务
 ======
-**Reviewer for:**
+**审稿工作:**
 - IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**)
 - European Conference on Computer Vision (**ECCV**)
 - AAAI Conference on Artificial Intelligence (**AAAI**)
@@ -113,7 +109,7 @@ Academic Service
 - Information Sciences (**INS**)
 - 自动化学报
 
-Former Students (Graduate Destinations)
+指导学生(学生去向)
 ======
 **指导/协助指导硕士生：**
 - 王杨扬（2023级硕士，西南财经大学在读，就业去向：中国电气装备集团财务公司）
