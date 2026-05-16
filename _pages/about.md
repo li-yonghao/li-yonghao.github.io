@@ -35,6 +35,7 @@ redirect_from:
 
 最新新闻
 ======
+- **2026.05: 与潘超凡博士合作发表论文《Regime-Adaptive Continual Learning for Portfolio Management》（SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), CCF-A类会议，财大A类）。**
 - **2026.05: 合作指导陈子安、王鑫宇、罗雁名、桂黄鑫等同学分别获2026年光华创新创业大赛暨中国国际大学生创新大赛校内选拔赛金奖、银奖、银奖、铜奖。**
 - **2026.05: 合作指导硕士生李婷婷等发表论文《Beyond Homophily: Spectrum-Based Graph Pre-training and Cluster-Augmented Prompt Tuning》（International Joint Conference on Artificial Intelligence (IJCAI)，财大A类）。**
 - **2026.04: 指导本科生刘潞瀚和何心怡等发表论文《Multi-Label Feature Selection under Coverage Imbalance and Feature Redundancy》（IEEE Transactions on Knowledge and Data Engineering (TKDE)，CCF-A类期刊，财大A类）。**
