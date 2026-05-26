@@ -35,7 +35,7 @@ redirect_from:
 
 最新新闻
 ======
-- **2026.05: 指导2025级本科生方子若、王立栋等学生的《面向模态缺失场景的医学图像（CT-MRI）生成与融合算法研究》科研项目获大学生创新训练计划国家级立项。**
+- **2026.05: 指导2025级本科生方子若、王立栋等学生的《面向模态缺失场景的医学图像（CT-MRI）生成与融合算法研究》科研项目获大学生创新训练计划国家级立项支持。**
 - **2026.05: 与潘超凡博士等人合作发表论文《Regime-Adaptive Continual Learning for Portfolio Management》（SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), CCF-A类会议，财大A类）。**
 - **2026.05: 合作指导陈子安、王鑫宇、罗雁名、桂黄鑫等同学分别获2026年光华创新创业大赛暨中国国际大学生创新大赛校内选拔赛金奖、银奖、银奖、铜奖。**
 - **2026.05: 合作指导硕士生李婷婷等发表论文《Beyond Homophily: Spectrum-Based Graph Pre-training and Cluster-Augmented Prompt Tuning》（International Joint Conference on Artificial Intelligence (IJCAI)，财大A类）。**
