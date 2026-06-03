@@ -71,27 +71,37 @@ redirect_from:
 
 [4] Yahui Liu(本科生), Yuzhu Pang(硕士生), Yujun Han(本科生), **Yonghao Li**, Wanfu Gao. Multi-label feature selection considering candidate space internal information[J]. Pattern Recognition, 2026: 113416. (中科院1区TOP期刊, 财大A类)
 
-[5] Xiang Li(硕士生), Huimin Fu, Xiaoou Huang(硕士生), Tianyi Xie, Lingfei Ren, Wanfu Gao, **Yonghao Li**, Xin Yang. Negative Label-Aware and Correlation-Enhanced Multi-Label Feature Selection[J]. Knowledge-Based Systems, 2025: 114797.
+[5] Xiang Li(硕士生), Huimin Fu, Xiaoou Huang(硕士生), Tianyi Xie(本科生), Lingfei Ren, Wanfu Gao, **Yonghao Li**, Xin Yang. Negative Label-Aware and Correlation-Enhanced Multi-Label Feature Selection[J]. Knowledge-Based Systems, 2025: 114797. (中科院1区TOP期刊, 财大A类)
 
-[6] **Yonghao Li**, Liang Hu, Wanfu Gao. Multi-label feature selection via robust flexible sparse regularization [J]. *Pattern Recognition*, 2023, 134: 109074. (中科院1区TOP期刊, 财大A类)
+[6] Suqi Zhang, **Yonghao Li**, Ping Zhang, Wanfu Gao. Exploring multi-label feature selection via feature and label information supplementation[J]. Engineering Applications of Artificial Intelligence, 2025, 159: 111552. (中科院1区TOP期刊)
 
-[7] **Yonghao Li**, Liang Hu, Wanfu Gao. Robust sparse and low-redundant multi-label feature selection with dynamic local and global structure preservation [J]. *Pattern Recognition*, 2023, 134: 109120. (中科院1区TOP期刊, 财大A类)
+[7] **Yonghao Li**, Xiangkun Wang(硕士生), Xin Yang, Wanfu Gao, Weiping Ding, Tianrui Li. Fusion-enhanced multi-label feature selection with sparse supplementation[J]. Information Fusion, 2025, 117: 102813. (中科院1区TOP期刊, 财大A类)
 
-[8] **Yonghao Li**, Liang Hu, Wanfu Gao. Label correlations variation for robust multi-label feature selection [J]. *Information Sciences*, 2022, 609: 1075-1097. (中科院1区TOP期刊, 财大A类)
+[8] Lin Ma(博士生), Liang Hu, **Yonghao Li**, Weiping Ding, Wanfu Gao. Mi-mcf: A mutual information-based multilabel causal feature selection[J]. IEEE Transactions on Neural Networks and Learning Systems, 2025. (中科院1区TOP期刊, 财大A类)
 
-[9] **Yonghao Li**, Liang Hu, Wanfu Gao. Multi-label feature selection with high-sparse personalized and low-redundancy shared common features [J]. *Information Processing & Management*, 2024, 61(3): 103633. (中科院1区TOP期刊, 财大B类)
+[9] Tingting Li(硕士生), **Yonghao Li**, Xiangkun Wang(博士生), Sixiang Chen(硕士生), Boyang Fan(硕士生), Lingfei Ren, Hao Yu(博士生), Xin Yang. Beyond Homophily: Spectrum-Based Graph Pre-training and Cluster-Augmented Prompt Tuning [C]. IJCAI2026. (中国计算机学会A类期刊(2022版), 财大A类)
 
-[10] Liang Hu, **Yonghao Li**, Wanfu Gao, Ping Zhang, Juncheng Hu. Multi-label feature selection with shared common mode [J]. *Pattern Recognition*, 2020, 104: 107344. (中科院1区TOP期刊, 财大A类)
+[10] Chaofan Pan(博士生), Lingfei Ren, Linbo Xiong(硕士生), **Yonghao Li**, Wei Wei, Xin Yang. Regime-Adaptive Continual Learning for Portfolio Management [C]. KDD2026. (中国计算机学会A类期刊, 财大A类)
 
-[11] **Yonghao Li**, Juncheng Hu, Wanfu Gao. Robust multi-label feature selection with shared label enhancement [J]. *Knowledge and Information Systems*, 2022, 64(12): 3343-3372. (CCF-B类期刊)
+[11] **Yonghao Li**, Liang Hu, Wanfu Gao. Multi-label feature selection via robust flexible sparse regularization [J]. *Pattern Recognition*, 2023, 134: 109074. (中科院1区TOP期刊, 财大A类)
 
-[12] Wanfu Gao, **Yonghao Li**, Liang Hu. Multilabel Feature Selection with Constrained Latent Structure Shared Term [J]. *IEEE Transactions on Neural Networks and Learning Systems*, 2023, 34(3): 1253-1262. (中科院1区TOP期刊, 财大A类)
+[12] **Yonghao Li**, Liang Hu, Wanfu Gao. Robust sparse and low-redundant multi-label feature selection with dynamic local and global structure preservation [J]. *Pattern Recognition*, 2023, 134: 109120. (中科院1区TOP期刊, 财大A类)
 
-[13] Liang Hu, Lingbo Gao, **Yonghao Li**, Ping Zhang, Wanfu Gao. Feature-specific mutual information variation for multi-label feature selection [J]. *Information Sciences*, 2022, 593: 449-471. (中科院1区TOP期刊, 财大A类)
+[13] **Yonghao Li**, Liang Hu, Wanfu Gao. Label correlations variation for robust multi-label feature selection [J]. *Information Sciences*, 2022, 609: 1075-1097. (中科院1区TOP期刊, 财大A类)
 
-[14] **李永豪**, 胡亮, 高万夫. 基于稀疏系数矩阵重构的多标记特征选择 [J]. *计算机学报*, 2022, 45(09): 1827-1841. (CCF-A类中文期刊，财大A类)
+[14] **Yonghao Li**, Liang Hu, Wanfu Gao. Multi-label feature selection with high-sparse personalized and low-redundancy shared common features [J]. *Information Processing & Management*, 2024, 61(3): 103633. (中科院1区TOP期刊, 财大B类)
 
-[15] **李永豪**, 胡亮, 高万夫. 基于动态图拉普拉斯的多标记特征选择方法 [J]. *通信学报*, 2020, 41(12): 47-59. (CCF-B类中文期刊)
+[15] Liang Hu, **Yonghao Li**, Wanfu Gao, Ping Zhang, Juncheng Hu. Multi-label feature selection with shared common mode [J]. *Pattern Recognition*, 2020, 104: 107344. (中科院1区TOP期刊, 财大A类)
+
+[16] **Yonghao Li**, Juncheng Hu, Wanfu Gao. Robust multi-label feature selection with shared label enhancement [J]. *Knowledge and Information Systems*, 2022, 64(12): 3343-3372. (CCF-B类期刊)
+
+[17] Wanfu Gao, **Yonghao Li**, Liang Hu. Multilabel Feature Selection with Constrained Latent Structure Shared Term [J]. *IEEE Transactions on Neural Networks and Learning Systems*, 2023, 34(3): 1253-1262. (中科院1区TOP期刊, 财大A类)
+
+[18] Liang Hu, Lingbo Gao, **Yonghao Li**, Ping Zhang, Wanfu Gao. Feature-specific mutual information variation for multi-label feature selection [J]. *Information Sciences*, 2022, 593: 449-471. (中科院1区TOP期刊, 财大A类)
+
+[19] **李永豪**, 胡亮, 高万夫. 基于稀疏系数矩阵重构的多标记特征选择 [J]. *计算机学报*, 2022, 45(09): 1827-1841. (CCF-A类中文期刊，财大A类)
+
+[20] **李永豪**, 胡亮, 高万夫. 基于动态图拉普拉斯的多标记特征选择方法 [J]. *通信学报*, 2020, 41(12): 47-59. (CCF-B类中文期刊)
 
 更多文章见[Google Scholar](https://scholar.google.com/citations?user=6vb2aWkAAAAJ&hl=en).
 
