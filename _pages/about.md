@@ -35,6 +35,7 @@ redirect_from:
 
 最新新闻
 ======
+- **2026.07: 指导本科生谢天翊、张译匀申请的专利《基于互补标签空间的多标签特征选择引导去噪方法》获国家知识产权局授权。**
 - **2026.06: 担任第九届数据存储与数据工程国际会议（DSDE 2026）本地组织秘书。**
 - **2026.05: 指导2025级本科生方子若、王立栋等学生的《面向模态缺失场景的医学图像（CT-MRI）生成与融合算法研究》科研项目获大学生创新训练计划国家级立项。**
 - **2026.05: 与潘超凡博士等人合作发表论文《Regime-Adaptive Continual Learning for Portfolio Management》（SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), CCF-A类会议，财大A类）。**
