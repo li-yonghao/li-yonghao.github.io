@@ -65,15 +65,15 @@ redirect_from:
 
 发表论文 (节选)
 ======
-[1] Luhan Liu(本科生), Xinyi He(本科生), Hanlin Pan(博士生), **Yonghao Li**, Wanfu Gao, Jie Wen, Weiping Ding. Multi-Label Feature Selection under Coverage Imbalance and Feature Redundancy [J]. *IEEE Transactions on Knowledge and Data Engineering*, 2026. (中国计算机学会A类期刊, 财大A类)
+[1] Luhan Liu(本科生), Xinyi He(本科生), Hanlin Pan(博士生), **Yonghao Li (通讯作者)**, Wanfu Gao, Jie Wen, Weiping Ding. Multi-Label Feature Selection under Coverage Imbalance and Feature Redundancy [J]. *IEEE Transactions on Knowledge and Data Engineering*, 2026. (中国计算机学会A类期刊, 财大A类)
 
 [2] Jiaming Chen(硕士生), Ping Zhang, **Yonghao Li**, Wanfu Gao. Graph-fusion guided data reconstruction for multi-view multi-label feature selection[J]. Pattern Recognition, 2026: 113692. (中科院1区TOP期刊, 财大A类)
 
 [3] Yangyang Wang(硕士生), **Yonghao Li**, Xuemei Cao, Hao Yu, Jiafen Liu, Xin Yang. Lifelong multi-view clustering with anchor-prototype collaboration[J]. Pattern Recognition, 2026: 113424. (中科院1区TOP期刊, 财大A类)
 
-[4] Yahui Liu(本科生), Yuzhu Pang(硕士生), Yujun Han(本科生), **Yonghao Li**, Wanfu Gao. Multi-label feature selection considering candidate space internal information[J]. Pattern Recognition, 2026: 113416. (中科院1区TOP期刊, 财大A类)
+[4] Yahui Liu(本科生), Yuzhu Pang(硕士生), Yujun Han(本科生), **Yonghao Li (通讯作者)**, Wanfu Gao. Multi-label feature selection considering candidate space internal information[J]. Pattern Recognition, 2026: 113416. (中科院1区TOP期刊, 财大A类)
 
-[5] Xiang Li(硕士生), Huimin Fu, Xiaoou Huang(硕士生), Tianyi Xie(本科生), Lingfei Ren, Wanfu Gao, **Yonghao Li**, Xin Yang. Negative Label-Aware and Correlation-Enhanced Multi-Label Feature Selection[J]. Knowledge-Based Systems, 2025: 114797. (中科院1区TOP期刊, 财大A类)
+[5] Xiang Li(硕士生), Huimin Fu, Xiaoou Huang(硕士生), Tianyi Xie(本科生), Lingfei Ren, Wanfu Gao, **Yonghao Li (通讯作者)**, Xin Yang. Negative Label-Aware and Correlation-Enhanced Multi-Label Feature Selection[J]. Knowledge-Based Systems, 2025: 114797. (中科院1区TOP期刊, 财大A类)
 
 [6] Suqi Zhang, **Yonghao Li**, Ping Zhang, Wanfu Gao. Exploring multi-label feature selection via feature and label information supplementation[J]. Engineering Applications of Artificial Intelligence, 2025, 159: 111552. (中科院1区TOP期刊)
 
