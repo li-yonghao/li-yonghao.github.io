@@ -35,6 +35,7 @@ redirect_from:
 
 最新新闻
 ======
+- **2026.08: 与曹雪梅博士等人合作发表论文《面向持续学习的主动遗忘框架》（中国科学: 信息科学, 财大中文A+类）。**
 - **2026.07: 指导本科生何心怡和刘潞瀚等发表论文《Determinacy-Driven Multi-Label Feature Selection via Representative Label Promotion》（Knowledge-based Systems (KBS)，财大A类）。**
 - **2026.07: 与喻皓博士等人合作发表论文《Robust Personalized Federated Continual Learning via Explainable Multi-Granularity Prompt》（IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), CCF-A类期刊，财大A+类）。** 
 - **2026.07: 指导本科生谢天翊、张译匀申请的专利《基于互补标签空间的多标签特征选择引导去噪方法》获国家知识产权局授权。**
