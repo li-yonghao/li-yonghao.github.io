@@ -35,6 +35,7 @@ redirect_from:
 
 最新新闻
 ======
+- **2026.08: 作为第一发明人指导黄小欧、潘超凡、李响等同学申请的发明专利《基于层次残差的解析式个性化联邦学习方法及相关装置》获国家知识产权局授权。**
 - **2026.08: 与曹雪梅博士等人合作发表论文《面向持续学习的主动遗忘框架》（中国科学: 信息科学, 财大中文A+类）。**
 - **2026.07: 指导本科生何心怡和刘潞瀚等发表论文《Determinacy-Driven Multi-Label Feature Selection via Representative Label Promotion》（Knowledge-based Systems (KBS)，财大A类）。**
 - **2026.07: 与喻皓博士等人合作发表论文《Robust Personalized Federated Continual Learning via Explainable Multi-Granularity Prompt》（IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), CCF-A类期刊，财大A+类）。** 
