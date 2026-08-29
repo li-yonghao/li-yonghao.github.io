@@ -121,6 +121,7 @@ redirect_from:
 - ACM International Conference on Multimedia (**ACM MM**)
 - International Joint Conference on Artificial Intelligence (**IJCAI**)
 - European Conference on Artificial Intelligence (**ECAI**)
+- IEEE International Conference on Big Data (**IEEE BigData**)
 - Conference on Neural Information Processing Systems (**NeurIPS**)
 - ACM Transactions on Knowledge Discovery from Data (**TKDD**)
 - IEEE Transactions on Knowledge and Data Engineering (**TKDE**)
