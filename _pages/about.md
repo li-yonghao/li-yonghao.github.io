@@ -35,6 +35,7 @@ redirect_from:
 
 最新新闻
 ======
+- **2026.10: 指导本科生彭诚等发表论文《SEHFS: Structural Entropy-Guided High-Order Correlation Learning for Multi-View Multi-Label Feature Selection》（IEEE Transactions on Image Processing (TIP), CCF-A类期刊，财大A类）。**
 - **2026.09: 指导硕士研究生李响、本科生张译匀、杜雨珊、赵艳茹荣获2025-2026学年国家奖学金。**
 - **2026.09: 正式出版普通高等学校人工智能通识系列教材《人工智能与现代科技》（第一版）。**
 - **2026.08: 当选为中国人工智能学会因果与不确定性人工智能专业委员会委员。**
