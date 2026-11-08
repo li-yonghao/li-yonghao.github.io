@@ -130,6 +130,7 @@ redirect_from:
 - Conference on Neural Information Processing Systems (**NeurIPS**)
 - ACM Transactions on Knowledge Discovery from Data (**TKDD**)
 - IEEE Transactions on Knowledge and Data Engineering (**TKDE**)
+-  IEEE Transactions on Image Processing (**TIP**)
 - IEEE Transactions on Multimedia (**TMM**)
 - IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**)
 - IEEE Transactions on Cybernetics (**TCYB**)
