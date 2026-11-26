@@ -44,7 +44,7 @@ redirect_from:
 - **2026.08: 与曹雪梅博士等人合作发表论文《面向持续学习的主动遗忘框架》（中国科学: 信息科学, 财大中文A+类）。**
 - **2026.07: 指导本科生何心怡和刘潞瀚等发表论文《Determinacy-Driven Multi-Label Feature Selection via Representative Label Promotion》（Knowledge-based Systems (KBS)，财大A类）。**
 - **2026.07: 与喻皓博士等人合作发表论文《Robust Personalized Federated Continual Learning via Explainable Multi-Granularity Prompt》（IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), CCF-A类期刊，财大A+类）。**
-- **2026.07: 与杨新教授、李志勇教授等人合作指导陈子安、张译匀等同学的《智E审————面向金融场景的合同智能审查平台》项目在2026年“挑战杯”四川省大学生创业计划竞赛中荣获三等奖。**
+- **2026.07: 与杨新教授、李志勇教授等人合作指导陈子安、张译匀等同学的《智E审——面向金融场景的合同智能审查平台》项目在2026年“挑战杯”四川省大学生创业计划竞赛中荣获三等奖。**
 - **2026.07: 指导本科生谢天翊、张译匀申请的专利《基于互补标签空间的多标签特征选择引导去噪方法》获国家知识产权局授权。**
 - **2026.06: 担任第九届数据存储与数据工程国际会议（DSDE 2026）本地组织秘书。**
 - **2026.05: 指导2025级本科生方子若、王立栋等学生的《面向模态缺失场景的医学图像（CT-MRI）生成与融合算法研究》科研项目获大学生创新训练计划国家级立项。**
